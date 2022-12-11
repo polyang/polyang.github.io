@@ -1,6 +1,7 @@
 ---
 title: docker安装MySQL5.7
 date: 2022-12-11 19:48:53
+sticky: 999
 tags:
 - docker
 - MySQL
