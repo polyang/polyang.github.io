@@ -7,6 +7,7 @@ tags:
   - compareTo
 abbrlink: 928514d2
 date: 2022-12-11 19:53:47
+description: 带你了解一下String中的compareTo方法。揭露那些不为人知的代码！
 ---
 ### 解释
 compareTo方法来自Comparable接口，String实现了该接口，具体实现如下：
