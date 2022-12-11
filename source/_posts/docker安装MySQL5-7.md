@@ -1,11 +1,12 @@
 ---
 title: docker安装MySQL5.7
-date: 2022-12-11 19:48:53
 sticky: 999
 tags:
-- docker
-- MySQL
-- MySQL5.7
+  - docker
+  - MySQL
+  - MySQL5.7
+abbrlink: 8dcdc3f
+date: 2022-12-11 19:48:53
 ---
 在docker中安装MySQL5.7比较简单，直接执行以下命令就可以了：
 ```shell

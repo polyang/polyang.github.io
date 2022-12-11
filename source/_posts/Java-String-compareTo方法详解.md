@@ -1,11 +1,12 @@
 ---
 title: Java String compareTo方法详解
-date: 2022-12-11 19:53:47
 categories: Java
 tags:
-- Java基础
-- String
-- compareTo
+  - Java基础
+  - String
+  - compareTo
+abbrlink: 928514d2
+date: 2022-12-11 19:53:47
 ---
 ### 解释
 compareTo方法来自Comparable接口，String实现了该接口，具体实现如下：
