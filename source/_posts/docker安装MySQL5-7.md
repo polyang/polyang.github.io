@@ -1,6 +1,5 @@
 ---
 title: docker安装MySQL5.7
-sticky: 999
 categories: docker
 tags:
   - docker
