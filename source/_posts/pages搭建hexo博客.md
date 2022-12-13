@@ -56,7 +56,7 @@ hexo g
 # 预览
 hexo server
 ```
-启动完成之后，在浏览器输入http://localhost:4000，默认页面如下：
+启动完成之后，在浏览器输入http://localhost:4000/ ，默认页面如下：
 ![](3.jpg)
 
 ### 关联github
@@ -69,7 +69,7 @@ hexo server
 ```shell
 git clone https://github.com/username/username.github.io.git
 ```
-其中https://github.com/username/username.github.io.git是上面复制的地址。
+其中https://github.com/username/username.github.io.git 是上面复制的地址。
 
 接着，我们需要输入“git checkout hexo”命令切换到hexo分支，hexo分支就是第二步说的存放博客源码的分支。
 
