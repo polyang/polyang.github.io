@@ -3,3 +3,4 @@ node_modules/
 .idea/
 *.iml
 public/
+.deploy_git/
